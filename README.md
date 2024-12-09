@@ -24,7 +24,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Sahil-Chudasama/Excel-Sales_Analysis/blob/main/P%26L%20by%20Fiscal%20Year.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Sahil-Chudasama/Sales_Analysis/blob/main/Profit%20%26%20Loss%20Base%20on%20Market.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Sahil-Chudasama/Excel-Sales_Analysis/blob/main/P%26L%20for%20Market.pdf)_
 
    **3** Create Gross Margin % by _[Sub Zone & Quarter](https://github.com/Sahil-Chudasama/Sales_Analysis/blob/main/Gross%20Margin%20%25%20by%20SubZone%20%26%20Quarter.pdf)_
 
