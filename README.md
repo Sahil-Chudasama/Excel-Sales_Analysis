@@ -22,7 +22,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Sahil-Chudasama/Sales_Analysis/blob/main/Profit%20%26%20Loss%20by%20Fiscal%20Year.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Sahil-Chudasama/Excel-Sales_Analysis/blob/main/P%26L%20by%20Fiscal%20Year.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Sahil-Chudasama/Sales_Analysis/blob/main/Profit%20%26%20Loss%20Base%20on%20Market.pdf)_
 
